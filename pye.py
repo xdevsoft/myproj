@@ -1,1 +1,3 @@
+import string
+
 print "helllo"
